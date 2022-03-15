@@ -20,9 +20,8 @@ Repositorio: https://github.com/edwardsandoval26/Neural_Networks-_Stock_Forecast
 Enlace del video en youtube: https://www.youtube.com/watch?v=9-56wym2NCg
 
 ## Descripcion de archivos:
-1) Import data: Imports all the datasets from the [Alpha Vantage API](https://www.alphavantage.co/documentation/).
-2) PreData: The data preprocesing process for the CNN application.
+1) Import data: Importa todos los datasets de [Alpha Vantage API](https://www.alphavantage.co/documentation/).
+2) PreData: Preprocesa los datos para la CNN
+3) Ultimo_Desarrollo_Proyecto_v1: La implementacion de ambas arquitecturas
 
-
-This repository contains the application of differents DNN methods to stock prediction.
 
