@@ -16,6 +16,7 @@ Modelos utilizados: CNN y RNN.
 
 ## Enlaces:
 Repositorio: https://github.com/edwardsandoval26/Neural_Networks-_Stock_Forecasting.git
+
 Enlace del video en youtube: https://www.youtube.com/watch?v=9-56wym2NCg
 
 ## Descripcion de archivos:
